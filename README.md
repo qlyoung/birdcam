@@ -19,4 +19,5 @@ Dependencies
 
 ```
 python -m pip install -r yolov5/requirements.txt
+python -m pip install -r requirements.txt
 ```
