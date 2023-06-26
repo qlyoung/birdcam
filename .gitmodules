@@ -1,3 +1,6 @@
 [submodule "yolov5"]
 	path = yolov5
 	url = https://github.com/qlyoung/yolov5.git
+[submodule "yolobirds"]
+	path = yolobirds
+	url = git@github.com:qlyoung/yolobirds.git
